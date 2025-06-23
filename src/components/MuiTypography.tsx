@@ -1,11 +1,11 @@
 import React from "react";
-//import { Typography } from "@mui/material";
-import { MuiButton } from "./MuiButton";
+import { Typography } from "@mui/material";
+
 
 const MuiTypography = () => {
   return (
     <div>
-      {/* <Typography variant="h1">h1 Heading</Typography>
+      <Typography variant="h1">h1 Heading</Typography>
       <Typography variant="h2">h2 Heading</Typography>
       <Typography variant="h3">h3 Heading</Typography>
       <Typography variant="h4" component='h1' gutterBottom>h4 Heading</Typography>
@@ -20,9 +20,9 @@ const MuiTypography = () => {
       </Typography>
       <Typography variant="body2">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis eligendi enim natus ut assumenda! Tenetur ratione iusto placeat, consequatur ipsum suscipit nobis accusantium aliquam est, sunt commodi ab voluptas sit?
-      </Typography> */}
+      </Typography>
 
-      <MuiButton />
+
 
 
     </div>
