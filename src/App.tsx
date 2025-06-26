@@ -1,5 +1,9 @@
 import './App.css';
-import MuiRating from './components/MuiRating';
+import MuiAccordian from './components/MuiAccordian';
+// import MuiCard from './components/MuiCard';
+// import { MuiLayout } from './components/MuiLayout';
+// import MuiAutoComplete from './components/MuiAutoComplete';
+//import MuiRating from './components/MuiRating';
 // import MuiSwitch from './components/MuiSwitch';
 // import { MuiCheckbox } from './components/MuiCheckbox';
 // import MuiTypography from './components/MuiTypography';
@@ -20,8 +24,12 @@ function App() {
       {/* <MuiRadioButton /> */}
       {/* <MuiCheckbox /> */}
       {/* <MuiSwitch /> */}
-
-      <MuiRating />
+      {/* <MuiRating /> */}
+      {/* <MuiAutoComplete /> */}
+      {/* <MuiLayout /> */}
+      {/* <MuiCard /> */}
+      <MuiAccordian />
+      
 
     </div>
   );
